@@ -17,4 +17,4 @@ Quantitative Analyst & Developer interested in trading, cryptocurrency, DeFi and
 - Interests: basketball, chess, hip-hop, cinematography
 
 ---
-If you want to know more details about me, please check out my [resume](https://drive.google.com/file/d/1sYnX3e_fG5731ZD6qr3H3gsxurWlPtf7/view?usp=sharing)
+If you want to know more details about me, please check out my [resume](https://drive.google.com/file/d/1ErDNlSGSK4tl8gVLqgiiPoKibEfgL3rg/view?usp=sharing)
