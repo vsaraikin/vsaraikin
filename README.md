@@ -1,4 +1,4 @@
-# Hi there, I am Vladimir 👋
+# Hi there, I am Vova 👋
 Quantitative Analyst & Developer interested in trading, cryptocurrency, DeFi and financial markets.
 
 
