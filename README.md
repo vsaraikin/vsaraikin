@@ -1,13 +1,10 @@
 # Hi there, I am Vova 👋
-Quantitative Analyst & Developer interested in trading, cryptocurrency, DeFi and financial markets.
-
+Backend Engineer & Quantitative Developer, who is interested in cryptocurrency, DeFi and financial markets.
 
 
 ### 🛠️ Skills:
 
-- Programming Languages: Python, SQL, Git, bash, C++ 
-- Tools:  Docker, PostgreSQL, Flask, Django, sckit-learn
+- Programming Languages: Python, SQL, Go, C++
+- Tools: Git, bash, Docker, PostgreSQL, FastAPI, Django, sckit-learn
 - Languages: fluent in English, Russian and Belarusian, intermediate in Spanish
-- Interests: basketball, chess, hip-hop, cinematography
-
-<!--If you want to know more details about me, please check out my [resume](https://drive.google.com/file/d/1ErDNlSGSK4tl8gVLqgiiPoKibEfgL3rg/view?usp=sharing) -->
+- Interests: basketball, chess, hip-hop
