@@ -1,2 +1,2 @@
 - quant dev & devops in crypto
-- stack: **go & python**, eager to learn deeper c++ and rust
+- stack: **go & python**
