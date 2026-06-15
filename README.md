@@ -1,2 +1,2 @@
 - quant dev & devops in crypto
-- stack: **go & python**
+- stack: *c++, *go & python**
